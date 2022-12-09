@@ -178,7 +178,7 @@ a {
 	  margin-right: auto;
 	  position: relative;	
 	  width: 900px;
-	  height: 600px;
+	  height: 500px;
 	  transform: scale(1);
   }
   
@@ -755,8 +755,8 @@ a {
 	  background-image: url(/04-zkapp-browser-ui/_next/static/media/teleicon1.9df81644.png);
 	  background-repeat: no-repeat;
 	  background-size: cover;
-	  width: 90px;
-	  height: 70px;
+	  width: 60px;
+	  height: 60px;
 	  position: absolute;
 	  left: 280px;
 	  top: 600px;
@@ -767,8 +767,8 @@ a {
 	  background-image: url(/04-zkapp-browser-ui/_next/static/media/dcicon1.9259d4cc.png);
 	  background-repeat: no-repeat;
 	  background-size: cover;
-	  width: 90px;
-	  height: 70px;
+	  width: 60px;
+	  height: 60px;
 	  position: absolute;
 	  left: 380px;
 	  top: 600px;
@@ -779,8 +779,8 @@ a {
 	  background-image: url(/04-zkapp-browser-ui/_next/static/media/fbicon1.435413da.png);
 	  background-repeat: no-repeat;
 	  background-size: cover;
-	  width: 90px;
-	  height: 70px;
+	  width: 70px;
+	  height: 60px;
 	  position: absolute;
 	  left: 480px;
 	  top: 600px;
@@ -791,8 +791,8 @@ a {
 	  background-image: url(/04-zkapp-browser-ui/_next/static/media/giticon1.8d0227c1.png);
 	  background-repeat: no-repeat;
 	  background-size: cover;
-	  width: 90px;
-	  height: 70px;
+	  width: 60px;
+	  height: 60px;
 	  position: absolute;
 	  left: 580px;
 	  top: 600px;

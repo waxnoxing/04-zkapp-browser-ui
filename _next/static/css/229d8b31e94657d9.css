@@ -313,8 +313,8 @@ a {
 	  width: 43px;
 	  height: 35px;
 	  position: absolute;
-	  left: 295px;
-	  top: 325px;
+	  left: 350px;
+	  top: 425px;
   }
   
   .Home_sendDone__abENy {
@@ -326,7 +326,7 @@ a {
 	  height: 120px;
 	  position: absolute;
 	  left: 330px;
-	  top: 170px;
+	  top: 270px;
   }
   
   .Home_caution__VEpHP {
@@ -650,7 +650,7 @@ a {
 	  background-image: url(/04-zkapp-browser-ui/_next/static/media/screen.358c4178.png);
 	  background-repeat: no-repeat;
 	  background-size: cover;
-	  width: 410px;
+	  width: 415px;
 	  height: 300px;
 	  position: absolute;
 	  left: 260px;
@@ -694,7 +694,7 @@ a {
 	  background-image: url(/04-zkapp-browser-ui/_next/static/media/send.bc7ebdd2.png);
 	  background-repeat: no-repeat;
 	  background-size: cover;
-	  width: 420px;
+	  width: 425px;
 	  height: 432px;
 	  position: absolute;
 	  left: 250px;
